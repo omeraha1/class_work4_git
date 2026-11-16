@@ -7,7 +7,9 @@ authors = [
     { name = "Omer Aharon", email = "aharonomer3@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pyside6>=6.12.0",
+]
 
 [project.scripts]
 class-work4-git = "class_work4_git:main"
