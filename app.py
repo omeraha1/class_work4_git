@@ -1,3 +1,3 @@
 with open('story.txt','r') as f:
-    comtent = f.read()
-    print(comtent)
+    content = f.read()
+    print(content)
